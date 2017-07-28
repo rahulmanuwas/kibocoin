@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Learncoin</source>
-        <translation>Over Learncoin</translation>
+        <source>About Kibocoin</source>
+        <translation>Over Kibocoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Learncoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Learncoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;Kibocoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Kibocoin&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+0"/>
-        <source>The Learncoin developers</source>
-        <translation>De Learncoin-ontwikkelaars</translation>
+        <source>The Kibocoin developers</source>
+        <translation>De Kibocoin-ontwikkelaars</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Learncoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn uw Learncoinadressen om betalingen mee te ontvangen. U kunt er voor kiezen om een uniek adres aan te maken voor elke afzender. Op deze manier kunt u bijhouden wie al aan u betaald heeft.</translation>
+        <source>These are your Kibocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn uw Kibocoinadressen om betalingen mee te ontvangen. U kunt er voor kiezen om een uniek adres aan te maken voor elke afzender. Op deze manier kunt u bijhouden wie al aan u betaald heeft.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Learncoin address</source>
-        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Learncoinadres bezit</translation>
+        <source>Sign a message to prove you own a Kibocoin address</source>
+        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Kibocoinadres bezit</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Learncoin address</source>
-        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Learncoinadres het bericht heeft ondertekend.</translation>
+        <source>Verify a message to ensure it was signed with a specified Kibocoin address</source>
+        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Kibocoinadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Learncoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Learncoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw learncoins verzendt.</translation>
+        <source>These are your Kibocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit zijn uw Kibocoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw kibocoins verzendt.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-56"/>
-        <source>Learncoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your learncoins from being stolen by malware infecting your computer.</source>
-        <translation>Learncoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw learncoins stelen.</translation>
+        <source>Kibocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your kibocoins from being stolen by malware infecting your computer.</source>
+        <translation>Kibocoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw kibocoins stelen.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Learncoin</source>
-        <translation>Laat informatie zien over Learncoin</translation>
+        <source>Show information about Kibocoin</source>
+        <translation>Laat informatie zien over Kibocoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Learncoin address</source>
-        <translation>Verstuur munten naar een Learncoinadres</translation>
+        <source>Send coins to a Kibocoin address</source>
+        <translation>Verstuur munten naar een Kibocoinadres</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Learncoin</source>
-        <translation>Wijzig instellingen van Learncoin</translation>
+        <source>Modify configuration options for Kibocoin</source>
+        <translation>Wijzig instellingen van Kibocoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Learncoin</source>
-        <translation>Learncoin</translation>
+        <source>Kibocoin</source>
+        <translation>Kibocoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Learncoin</source>
-        <translation>&amp;Over Learncoin</translation>
+        <source>&amp;About Kibocoin</source>
+        <translation>&amp;Over Kibocoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Learncoin addresses to prove you own them</source>
-        <translation>Onderteken berichten met uw Learncoinadressen om te bewijzen dat u deze adressen bezit</translation>
+        <source>Sign messages with your Kibocoin addresses to prove you own them</source>
+        <translation>Onderteken berichten met uw Kibocoinadressen om te bewijzen dat u deze adressen bezit</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Learncoin addresses</source>
-        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde Learncoinadressen</translation>
+        <source>Verify messages to ensure they were signed with specified Kibocoin addresses</source>
+        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde Kibocoinadressen</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+47"/>
-        <source>Learncoin client</source>
-        <translation>Learncoin client</translation>
+        <source>Kibocoin client</source>
+        <translation>Kibocoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Learncoin network</source>
-        <translation><numerusform>%n actieve connectie naar Learncoinnetwerk</numerusform><numerusform>%n actieve connecties naar Learncoinnetwerk</numerusform></translation>
+        <source>%n active connection(s) to Kibocoin network</source>
+        <translation><numerusform>%n actieve connectie naar Kibocoinnetwerk</numerusform><numerusform>%n actieve connecties naar Kibocoinnetwerk</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -607,7 +607,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+70"/>
         <source>This transaction is over the size limit. You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?</source>
-        <translation>Deze transactie overschrijdt de groottelimiet. Om de transactie alsnog te versturen kunt u transactiekosten betalen van %1. Deze transactiekosten gaan naar de nodes die uw transactie verwerken en het helpt op deze manier bij het ondersteunen van het Learncoinnetwerk. Wilt u de transactiekosten betalen?</translation>
+        <translation>Deze transactie overschrijdt de groottelimiet. Om de transactie alsnog te versturen kunt u transactiekosten betalen van %1. Deze transactiekosten gaan naar de nodes die uw transactie verwerken en het helpt op deze manier bij het ondersteunen van het Kibocoinnetwerk. Wilt u de transactiekosten betalen?</translation>
     </message>
     <message>
         <location line="-140"/>
@@ -656,8 +656,8 @@ Adres: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Learncoin address or malformed URI parameters.</source>
-        <translation>URI kan niet worden geïnterpreteerd. Dit kan komen door een ongeldig Learncoinadres of misvormde URI-parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Kibocoin address or malformed URI parameters.</source>
+        <translation>URI kan niet worden geïnterpreteerd. Dit kan komen door een ongeldig Kibocoinadres of misvormde URI-parameters.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Learncoin can no longer continue safely and will quit.</source>
-        <translation>Er is een fatale fout opgetreden. Learncoin kan niet meer veilig doorgaan en zal nu afgesloten worden.</translation>
+        <source>A fatal error occurred. Kibocoin can no longer continue safely and will quit.</source>
+        <translation>Er is een fatale fout opgetreden. Kibocoin kan niet meer veilig doorgaan en zal nu afgesloten worden.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adres: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Learncoin address.</source>
-        <translation>Het opgegeven adres &quot;%1&quot; is een ongeldig Learncoinadres</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Kibocoin address.</source>
+        <translation>Het opgegeven adres &quot;%1&quot; is een ongeldig Kibocoinadres</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adres: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Learncoin-Qt</source>
-        <translation>Learncoin-Qt</translation>
+        <source>Kibocoin-Qt</source>
+        <translation>Kibocoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adres: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Learncoin after logging in to the system.</source>
-        <translation>Start Learncoin automatisch na inloggen in het systeem</translation>
+        <source>Automatically start Kibocoin after logging in to the system.</source>
+        <translation>Start Kibocoin automatisch na inloggen in het systeem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Learncoin on system login</source>
-        <translation>Start &amp;Learncoin bij het inloggen in het systeem</translation>
+        <source>&amp;Start Kibocoin on system login</source>
+        <translation>Start &amp;Kibocoin bij het inloggen in het systeem</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Adres: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Learncoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Open de Learncoin-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
+        <source>Automatically open the Kibocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Open de Kibocoin-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Learncoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbind met het Learncoin-netwerk via een SOCKS-proxy (bijv. wanneer u via Tor wilt verbinden)</translation>
+        <source>Connect to the Kibocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbind met het Kibocoin-netwerk via een SOCKS-proxy (bijv. wanneer u via Tor wilt verbinden)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adres: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Learncoin.</source>
-        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat Learncoin herstart wordt.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Kibocoin.</source>
+        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat Kibocoin herstart wordt.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +944,8 @@ Adres: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Learncoin addresses in the transaction list or not.</source>
-        <translation>Of Learncoinadressen getoond worden in de transactielijst</translation>
+        <source>Whether to show Kibocoin addresses in the transaction list or not.</source>
+        <translation>Of Kibocoinadressen getoond worden in de transactielijst</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Adres: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Learncoin.</source>
-        <translation>Deze instelling zal pas van kracht worden na het herstarten van Learncoin.</translation>
+        <source>This setting will take effect after restarting Kibocoin.</source>
+        <translation>Deze instelling zal pas van kracht worden na het herstarten van Kibocoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Adres: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Learncoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het Learncoinnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Kibocoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het Kibocoinnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,8 +1069,8 @@ Adres: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start learncoin: click-to-pay handler</source>
-        <translation>Kan learncoin niet starten: click-to-pay handler</translation>
+        <source>Cannot start kibocoin: click-to-pay handler</source>
+        <translation>Kan kibocoin niet starten: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Learncoin-Qt help message to get a list with possible Learncoin command-line options.</source>
-        <translation>Toon het LearncoinQt-hulpbericht voor een lijst met mogelijke Learncoin commandoregel-opties.</translation>
+        <source>Show the Kibocoin-Qt help message to get a list with possible Kibocoin command-line options.</source>
+        <translation>Toon het KibocoinQt-hulpbericht voor een lijst met mogelijke Kibocoin commandoregel-opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adres: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Learncoin - Debug window</source>
-        <translation>Learncoin-debugscherm</translation>
+        <source>Kibocoin - Debug window</source>
+        <translation>Kibocoin-debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Learncoin Core</source>
-        <translation>Learncoin Kern</translation>
+        <source>Kibocoin Core</source>
+        <translation>Kibocoin Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Learncoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het Learncoindebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
+        <source>Open the Kibocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het Kibocoindebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Learncoin RPC console.</source>
-        <translation>Welkom bij de Learncoin RPC-console.</translation>
+        <source>Welcome to the Kibocoin RPC console.</source>
+        <translation>Welkom bij de Kibocoin RPC-console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,8 +1448,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Learncoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Vul een Learncoinadres in (bijv. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Kibocoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Vul een Kibocoinadres in (bijv. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Adres: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Learncoin address</source>
-        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Learncoinadres bezit</translation>
+        <source>Sign the message to prove you own this Kibocoin address</source>
+        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Kibocoinadres bezit</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Adres: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Learncoin address</source>
-        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Learncoinadres het bericht heeft ondertekend.</translation>
+        <source>Verify the message to ensure it was signed with the specified Kibocoin address</source>
+        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Kibocoinadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adres: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Learncoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Vul een Learncoinadres in (bijv. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Kibocoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Vul een Kibocoinadres in (bijv. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adres: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Learncoin signature</source>
-        <translation>Voer Learncoin-handtekening in</translation>
+        <source>Enter Kibocoin signature</source>
+        <translation>Voer Kibocoin-handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adres: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Learncoin developers</source>
-        <translation>De Learncoin-ontwikkelaars</translation>
+        <source>The Kibocoin developers</source>
+        <translation>De Kibocoin-ontwikkelaars</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,8 +2187,8 @@ Adres: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Learncoin version</source>
-        <translation>Learncoinversie</translation>
+        <source>Kibocoin version</source>
+        <translation>Kibocoinversie</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Adres: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or learncoind</source>
-        <translation>Stuur commando naar -server of learncoind</translation>
+        <source>Send command to -server or kibocoind</source>
+        <translation>Stuur commando naar -server of kibocoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,14 +2217,14 @@ Adres: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: learncoin.conf)</source>
-        <translation>Specificeer configuratiebestand (standaard: learncoin.conf)
+        <source>Specify configuration file (default: kibocoin.conf)</source>
+        <translation>Specificeer configuratiebestand (standaard: kibocoin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: learncoind.pid)</source>
-        <translation>Specificeer pid-bestand (standaard: learncoind.pid)
+        <source>Specify pid file (default: kibocoind.pid)</source>
+        <translation>Specificeer pid-bestand (standaard: kibocoind.pid)
 </translation>
     </message>
     <message>
@@ -2302,23 +2302,23 @@ Adres: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=learncoinrpc
+rpcuser=kibocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Learncoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Kibocoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een RPC-wachtwoord instellen in het configuratiebestand: %s
 U wordt aangeraden het volgende willekeurige wachtwoord te gebruiken:
-rpcuser=learncoinrpc
+rpcuser=kibocoinrpc
 rpcpassword=%s
 (u hoeft dit wachtwoord niet te onthouden)
 De gebruikersnaam en wachtwoord mogen niet hetzelfde zijn.
 Als het bestand niet bestaat, make hem dan aan met leesrechten voor enkel de eigenaar.
 Het is ook aan te bevelen &quot;alertnotify&quot; in te stellen zodat u op de hoogte gesteld wordt van problemen;
-for example: alertnotify=echo %%s | mail -s &quot;Learncoin Alert&quot; admin@foo.com</translation>
+for example: alertnotify=echo %%s | mail -s &quot;Kibocoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2332,8 +2332,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Learncoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Learncoin is probably already running.</source>
-        <translation>Kan geen lock op de datamap %s verkrijgen. Learncoin draait vermoedelijk reeds.</translation>
+        <source>Cannot obtain a lock on data directory %s. Kibocoin is probably already running.</source>
+        <translation>Kan geen lock op de datamap %s verkrijgen. Kibocoin draait vermoedelijk reeds.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Learncoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Learncoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer dat de datum en tijd op uw computer correct zijn ingesteld. Als uw klok fout staat zal Learncoin niet correct werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Kibocoin will not work properly.</source>
+        <translation>Waarschuwing: Controleer dat de datum en tijd op uw computer correct zijn ingesteld. Als uw klok fout staat zal Kibocoin niet correct werken.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Learncoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Learncoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-opties: (zie de Learncoin wiki voor SSL-instructies)</translation>
+        <source>SSL options: (see the Kibocoin Wiki for SSL setup instructions)</source>
+        <translation>SSL-opties: (zie de Kibocoin wiki voor SSL-instructies)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Learncoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Learncoin</source>
-        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van Learncoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Kibocoin</source>
+        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van Kibocoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Learncoin to complete</source>
-        <translation>Portemonnee moest herschreven worden: Herstart Learncoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart Kibocoin to complete</source>
+        <translation>Portemonnee moest herschreven worden: Herstart Kibocoin om te voltooien</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Learncoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Learncoin is probably already running.</source>
-        <translation>Niet in staat om aan %s te binden op deze computer. Learncoin draait vermoedelijk reeds.</translation>
+        <source>Unable to bind to %s on this computer. Kibocoin is probably already running.</source>
+        <translation>Niet in staat om aan %s te binden op deze computer. Kibocoin draait vermoedelijk reeds.</translation>
     </message>
     <message>
         <location line="+64"/>

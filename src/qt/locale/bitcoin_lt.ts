@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Learncoin</source>
-        <translation>Apie Learncoin</translation>
+        <source>About Kibocoin</source>
+        <translation>Apie Kibocoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Learncoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Learncoin&lt;/b&gt; versija</translation>
+        <source>&lt;b&gt;Kibocoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Kibocoin&lt;/b&gt; versija</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -33,7 +33,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+0"/>
-        <source>The Learncoin developers</source>
+        <source>The Kibocoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -66,8 +66,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Learncoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tai yra jūsų Learncoin adresai mokėjimų gavimui. Galite duoti skirtingus adresus atskiriems siuntėjams, kad galėtumėte sekti, kas jums moka.</translation>
+        <source>These are your Kibocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tai yra jūsų Kibocoin adresai mokėjimų gavimui. Galite duoti skirtingus adresus atskiriems siuntėjams, kad galėtumėte sekti, kas jums moka.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -81,8 +81,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Learncoin address</source>
-        <translation>Pasirašykite žinutę, kad įrodytume, jog esate Learncoin adreso savininkas</translation>
+        <source>Sign a message to prove you own a Kibocoin address</source>
+        <translation>Pasirašykite žinutę, kad įrodytume, jog esate Kibocoin adreso savininkas</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -106,8 +106,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Learncoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Learncoin adresas</translation>
+        <source>Verify a message to ensure it was signed with a specified Kibocoin address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Kibocoin adresas</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -121,7 +121,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Learncoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Kibocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -274,8 +274,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-56"/>
-        <source>Learncoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your learncoins from being stolen by malware infecting your computer.</source>
-        <translation>Learncoin dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti learncoinų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
+        <source>Kibocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your kibocoins from being stolen by malware infecting your computer.</source>
+        <translation>Kibocoin dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti kibocoinų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -373,8 +373,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Learncoin</source>
-        <translation>Rodyti informaciją apie Learncoin</translation>
+        <source>Show information about Kibocoin</source>
+        <translation>Rodyti informaciją apie Kibocoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -418,13 +418,13 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Learncoin address</source>
-        <translation>Siųsti monetas Learncoin adresui</translation>
+        <source>Send coins to a Kibocoin address</source>
+        <translation>Siųsti monetas Kibocoin adresui</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Learncoin</source>
-        <translation>Keisti learncoin konfigūracijos galimybes</translation>
+        <source>Modify configuration options for Kibocoin</source>
+        <translation>Keisti kibocoin konfigūracijos galimybes</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -454,8 +454,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Learncoin</source>
-        <translation>Learncoin</translation>
+        <source>Kibocoin</source>
+        <translation>Kibocoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -479,8 +479,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Learncoin</source>
-        <translation>&amp;Apie Learncoin</translation>
+        <source>&amp;About Kibocoin</source>
+        <translation>&amp;Apie Kibocoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -499,12 +499,12 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Learncoin addresses to prove you own them</source>
+        <source>Sign messages with your Kibocoin addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Learncoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Kibocoin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -535,13 +535,13 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+47"/>
-        <source>Learncoin client</source>
-        <translation>Learncoin klientas</translation>
+        <source>Kibocoin client</source>
+        <translation>Kibocoin klientas</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Learncoin network</source>
-        <translation><numerusform>%n Learncoin tinklo aktyvus ryšys</numerusform><numerusform>%n Learncoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Learncoin tinklo aktyvūs ryšiai</numerusform></translation>
+        <source>%n active connection(s) to Kibocoin network</source>
+        <translation><numerusform>%n Kibocoin tinklo aktyvus ryšys</numerusform><numerusform>%n Kibocoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Kibocoin tinklo aktyvūs ryšiai</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -654,7 +654,7 @@ Adresas: %4</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Learncoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Kibocoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -669,7 +669,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Learncoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Kibocoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -735,8 +735,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Learncoin address.</source>
-        <translation>Įvestas adresas „%1“ nėra galiojantis Learncoin adresas.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Kibocoin address.</source>
+        <translation>Įvestas adresas „%1“ nėra galiojantis Kibocoin adresas.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -754,8 +754,8 @@ Adresas: %4</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Learncoin-Qt</source>
-        <translation>Learncoin-Qt</translation>
+        <source>Kibocoin-Qt</source>
+        <translation>Kibocoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -817,13 +817,13 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Learncoin after logging in to the system.</source>
+        <source>Automatically start Kibocoin after logging in to the system.</source>
         <translation>Automatiškai paleisti Bitkoin programą įjungus sistemą.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Learncoin on system login</source>
-        <translation>&amp;Paleisti Learncoin programą su window sistemos paleidimu</translation>
+        <source>&amp;Start Kibocoin on system login</source>
+        <translation>&amp;Paleisti Kibocoin programą su window sistemos paleidimu</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -842,8 +842,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Learncoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatiškai atidaryti Learncoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
+        <source>Automatically open the Kibocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatiškai atidaryti Kibocoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -852,7 +852,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Learncoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Kibocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Jungtis į Bitkoin tinklą per  socks proxy (pvz. jungiantis per Tor)</translation>
     </message>
     <message>
@@ -927,8 +927,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Learncoin.</source>
-        <translation>Čia gali būti nustatyta naudotojo sąsajos kalba. Šis nustatymas įsigalios iš naujo paleidus Learncoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Kibocoin.</source>
+        <translation>Čia gali būti nustatyta naudotojo sąsajos kalba. Šis nustatymas įsigalios iš naujo paleidus Kibocoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -942,7 +942,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Learncoin addresses in the transaction list or not.</source>
+        <source>Whether to show Kibocoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -994,7 +994,7 @@ Adresas: %4</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Learncoin.</source>
+        <source>This setting will take effect after restarting Kibocoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1013,7 +1013,7 @@ Adresas: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Learncoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Kibocoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1067,7 +1067,7 @@ Adresas: %4</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start learncoin: click-to-pay handler</source>
+        <source>Cannot start kibocoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1217,7 +1217,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Learncoin-Qt help message to get a list with possible Learncoin command-line options.</source>
+        <source>Show the Kibocoin-Qt help message to get a list with possible Kibocoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1237,13 +1237,13 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Learncoin - Debug window</source>
-        <translation>Learncoin - Derinimo langas</translation>
+        <source>Kibocoin - Debug window</source>
+        <translation>Kibocoin - Derinimo langas</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Learncoin Core</source>
-        <translation>Learncoin branduolys</translation>
+        <source>Kibocoin Core</source>
+        <translation>Kibocoin branduolys</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1252,7 +1252,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Learncoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Kibocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1262,7 +1262,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Learncoin RPC console.</source>
+        <source>Welcome to the Kibocoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1446,7 +1446,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Learncoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Kibocoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Įveskite bitkoinų adresą (pvz. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
@@ -1511,7 +1511,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Learncoin address</source>
+        <source>Sign the message to prove you own this Kibocoin address</source>
         <translation>Registruotis žinute įrodymuii, kad turite šį adresą</translation>
     </message>
     <message>
@@ -1547,8 +1547,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Learncoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Learncoin adresas</translation>
+        <source>Verify the message to ensure it was signed with the specified Kibocoin address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Kibocoin adresas</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,7 +1563,7 @@ Adresas: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Learncoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Kibocoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Įveskite bitkoinų adresą (pvz. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
@@ -1573,8 +1573,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Learncoin signature</source>
-        <translation>Įveskite Learncoin parašą</translation>
+        <source>Enter Kibocoin signature</source>
+        <translation>Įveskite Kibocoin parašą</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1647,7 +1647,7 @@ Adresas: %4</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Learncoin developers</source>
+        <source>The Kibocoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2185,8 +2185,8 @@ Adresas: %4</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Learncoin version</source>
-        <translation>Learncoin versija</translation>
+        <source>Kibocoin version</source>
+        <translation>Kibocoin versija</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2195,8 +2195,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or learncoind</source>
-        <translation>Siųsti komandą serveriui arba learncoind</translation>
+        <source>Send command to -server or kibocoind</source>
+        <translation>Siųsti komandą serveriui arba kibocoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2215,13 +2215,13 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: learncoin.conf)</source>
-        <translation>Nurodyti konfigūracijos failą (pagal nutylėjimąt: learncoin.conf)</translation>
+        <source>Specify configuration file (default: kibocoin.conf)</source>
+        <translation>Nurodyti konfigūracijos failą (pagal nutylėjimąt: kibocoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: learncoind.pid)</source>
-        <translation>Nurodyti pid failą (pagal nutylėjimą: learncoind.pid)</translation>
+        <source>Specify pid file (default: kibocoind.pid)</source>
+        <translation>Nurodyti pid failą (pagal nutylėjimą: kibocoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2298,13 +2298,13 @@ Adresas: %4</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=learncoinrpc
+rpcuser=kibocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Learncoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Kibocoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2320,7 +2320,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Learncoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Learncoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Kibocoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2365,8 +2365,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Learncoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Learncoin will not work properly.</source>
-        <translation>Įspėjimas: Patikrinkite, kad kompiuterio data ir laikas yra teisingi.Jei Jūsų laikrodis neteisingai nustatytas Learncoin, veiks netinkamai.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Kibocoin will not work properly.</source>
+        <translation>Įspėjimas: Patikrinkite, kad kompiuterio data ir laikas yra teisingi.Jei Jūsų laikrodis neteisingai nustatytas Kibocoin, veiks netinkamai.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2615,8 +2615,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Learncoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Learncoin Wiki for SSL setup instructions)</source>
-        <translation>SSL opcijos (žr.e Learncoin Wiki for SSL setup instructions)</translation>
+        <source>SSL options: (see the Kibocoin Wiki for SSL setup instructions)</source>
+        <translation>SSL opcijos (žr.e Kibocoin Wiki for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2805,13 +2805,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Learncoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Learncoin</source>
-        <translation> wallet.dat pakrovimo klaida,  wallet.dat reikalauja naujasnės Learncoin versijos</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Kibocoin</source>
+        <translation> wallet.dat pakrovimo klaida,  wallet.dat reikalauja naujasnės Kibocoin versijos</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Learncoin to complete</source>
-        <translation>Piniginė turi būti prrašyta: įvykdymui perkraukite Learncoin</translation>
+        <source>Wallet needed to be rewritten: restart Kibocoin to complete</source>
+        <translation>Piniginė turi būti prrašyta: įvykdymui perkraukite Kibocoin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2870,8 +2870,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Learncoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Learncoin is probably already running.</source>
-        <translation>Nepavyko susieti šiame kompiuteryje prievado %s. Learncoin tikriausiai jau veikia.</translation>
+        <source>Unable to bind to %s on this computer. Kibocoin is probably already running.</source>
+        <translation>Nepavyko susieti šiame kompiuteryje prievado %s. Kibocoin tikriausiai jau veikia.</translation>
     </message>
     <message>
         <location line="+64"/>

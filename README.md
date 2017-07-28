@@ -1,15 +1,15 @@
-Learncoin integration/staging tree
+Kibocoin integration/staging tree
 ================================
 
-http://www.learncoin.org
+http://www.kibocoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Learncoin Developers
+Copyright (c) 2011-2014 Kibocoin Developers
 
-What is Learncoin?
+What is Kibocoin?
 ----------------
 
-Learncoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+Kibocoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
@@ -19,12 +19,12 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Learncoin client sofware, see http://www.learncoin.org.
+the Kibocoin client sofware, see http://www.kibocoin.org.
 
 License
 -------
 
-Learncoin is released under the terms of the MIT license. See `COPYING` for more
+Kibocoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
@@ -33,7 +33,7 @@ Development process
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-If it is a simple/trivial/non-controversial change, then one of the Learncoin
+If it is a simple/trivial/non-controversial change, then one of the Kibocoin
 development team members simply pulls it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
@@ -45,8 +45,8 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/learncoin-project/learncoin/tags) are created
-regularly to indicate new official, stable release versions of Learncoin.
+completely stable. [Tags](https://github.com/kibocoin-project/kibocoin/tags) are created
+regularly to indicate new official, stable release versions of Kibocoin.
 
 Testing
 -------
@@ -69,5 +69,5 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 
     qmake BITCOIN_QT_TEST=1 -o Makefile.test bitcoin-qt.pro
     make -f Makefile.test
-    ./learncoin-qt_test
+    ./kibocoin-qt_test
 

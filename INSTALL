@@ -1,9 +1,9 @@
-Building Learncoin
+Building Kibocoin
 
-See doc/readme-qt.rst for instructions on building Learncoin-Qt,
+See doc/readme-qt.rst for instructions on building Kibocoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Learncoin.
+implementation of Kibocoin.
 
-See doc/build-*.txt for instructions on building learncoind,
+See doc/build-*.txt for instructions on building kibocoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Learncoin.
+implementation of Kibocoin.

@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Learncoin - Debug window</string>
+   <string>Kibocoin - Debug window</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>
@@ -36,7 +36,7 @@
           </font>
          </property>
          <property name="text">
-          <string>Learncoin Core</string>
+          <string>Kibocoin Core</string>
          </property>
         </widget>
        </item>
@@ -322,7 +322,7 @@
        <item row="15" column="0">
         <widget class="QPushButton" name="openDebugLogfileButton">
          <property name="toolTip">
-          <string>Open the Learncoin debug log file from the current data directory. This can take a few seconds for large log files.</string>
+          <string>Open the Kibocoin debug log file from the current data directory. This can take a few seconds for large log files.</string>
          </property>
          <property name="text">
           <string>&amp;Open</string>
@@ -348,7 +348,7 @@
        <item row="17" column="0">
         <widget class="QPushButton" name="showCLOptionsButton">
          <property name="toolTip">
-          <string>Show the Learncoin-Qt help message to get a list with possible Learncoin command-line options.</string>
+          <string>Show the Kibocoin-Qt help message to get a list with possible Kibocoin command-line options.</string>
          </property>
          <property name="text">
           <string>&amp;Show</string>

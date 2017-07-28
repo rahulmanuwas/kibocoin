@@ -24,7 +24,7 @@ Release Process
 
 ##perform gitian builds
 
- From a directory containing the learncoin source, gitian-builder and gitian.sigs
+ From a directory containing the kibocoin source, gitian-builder and gitian.sigs
   
 	export SIGNER=(your gitian key, ie bluematt, sipa, etc)
 	export VERSION=0.8.7
@@ -42,69 +42,69 @@ Release Process
 	wget 'http://downloads.sourceforge.net/project/boost/boost/1.55.0/boost_1_55_0.tar.bz2'
 	wget 'http://download.qt-project.org/official_releases/qt/4.8/4.8.5/qt-everywhere-opensource-src-4.8.5.tar.gz'
 	cd ..
-	./bin/gbuild ../learncoin/contrib/gitian-descriptors/boost-win32.yml
+	./bin/gbuild ../kibocoin/contrib/gitian-descriptors/boost-win32.yml
 	mv build/out/boost-*.zip inputs/
-	./bin/gbuild ../learncoin/contrib/gitian-descriptors/deps-win32.yml
+	./bin/gbuild ../kibocoin/contrib/gitian-descriptors/deps-win32.yml
 	mv build/out/bitcoin*.zip inputs/
-	./bin/gbuild ../learncoin/contrib/gitian-descriptors/qt-win32.yml
+	./bin/gbuild ../kibocoin/contrib/gitian-descriptors/qt-win32.yml
 	mv build/out/qt*.zip inputs/
 
- Build learncoind and learncoin-qt on Linux32, Linux64, and Win32:
+ Build kibocoind and kibocoin-qt on Linux32, Linux64, and Win32:
   
-	./bin/gbuild --commit learncoin=v${VERSION} ../learncoin/contrib/gitian-descriptors/gitian.yml
-	./bin/gsign --signer $SIGNER --release ${VERSION} --destination ../gitian.sigs/ ../learncoin/contrib/gitian-descriptors/gitian.yml
+	./bin/gbuild --commit kibocoin=v${VERSION} ../kibocoin/contrib/gitian-descriptors/gitian.yml
+	./bin/gsign --signer $SIGNER --release ${VERSION} --destination ../gitian.sigs/ ../kibocoin/contrib/gitian-descriptors/gitian.yml
 	pushd build/out
-	zip -r learncoin-${VERSION}-linux.zip *
-	mv learncoin-${VERSION}-linux.zip ../../
+	zip -r kibocoin-${VERSION}-linux.zip *
+	mv kibocoin-${VERSION}-linux.zip ../../
 	popd
-	./bin/gbuild --commit learncoin=v${VERSION} ../learncoin/contrib/gitian-descriptors/gitian-win32.yml
-	./bin/gsign --signer $SIGNER --release ${VERSION}-win32 --destination ../gitian.sigs/ ../learncoin/contrib/gitian-descriptors/gitian-win32.yml
+	./bin/gbuild --commit kibocoin=v${VERSION} ../kibocoin/contrib/gitian-descriptors/gitian-win32.yml
+	./bin/gsign --signer $SIGNER --release ${VERSION}-win32 --destination ../gitian.sigs/ ../kibocoin/contrib/gitian-descriptors/gitian-win32.yml
 	pushd build/out
-	zip -r learncoin-${VERSION}-win32.zip *
-	mv learncoin-${VERSION}-win32.zip ../../
+	zip -r kibocoin-${VERSION}-win32.zip *
+	mv kibocoin-${VERSION}-win32.zip ../../
 	popd
 
   Build output expected:
 
-  1. linux 32-bit and 64-bit binaries + source (learncoin-${VERSION}-linux-gitian.zip)
-  2. windows 32-bit binary, installer + source (learncoin-${VERSION}-win32-gitian.zip)
+  1. linux 32-bit and 64-bit binaries + source (kibocoin-${VERSION}-linux-gitian.zip)
+  2. windows 32-bit binary, installer + source (kibocoin-${VERSION}-win32-gitian.zip)
   3. Gitian signatures (in gitian.sigs/${VERSION}[-win32]/(your gitian key)/
 
 repackage gitian builds for release as stand-alone zip/tar/installer exe
 
 **Linux .tar.gz:**
 
-	unzip learncoin-${VERSION}-linux-gitian.zip -d learncoin-${VERSION}-linux
-	tar czvf learncoin-${VERSION}-linux.tar.gz learncoin-${VERSION}-linux
-	rm -rf learncoin-${VERSION}-linux
+	unzip kibocoin-${VERSION}-linux-gitian.zip -d kibocoin-${VERSION}-linux
+	tar czvf kibocoin-${VERSION}-linux.tar.gz kibocoin-${VERSION}-linux
+	rm -rf kibocoin-${VERSION}-linux
 
 **Windows .zip and setup.exe:**
 
-	unzip learncoin-${VERSION}-win32-gitian.zip -d learncoin-${VERSION}-win32
-	mv learncoin-${VERSION}-win32/learncoin-*-setup.exe .
-	zip -r learncoin-${VERSION}-win32.zip bitcoin-${VERSION}-win32
-	rm -rf learncoin-${VERSION}-win32
+	unzip kibocoin-${VERSION}-win32-gitian.zip -d kibocoin-${VERSION}-win32
+	mv kibocoin-${VERSION}-win32/kibocoin-*-setup.exe .
+	zip -r kibocoin-${VERSION}-win32.zip bitcoin-${VERSION}-win32
+	rm -rf kibocoin-${VERSION}-win32
 
 **Perform Mac build:**
 
   OSX binaries are created on a dedicated 32-bit, OSX 10.6.8 machine.
-  Learncoin 0.8.x is built with MacPorts.  0.9.x will be Homebrew only.
+  Kibocoin 0.8.x is built with MacPorts.  0.9.x will be Homebrew only.
 
 	qmake RELEASE=1 USE_UPNP=1 USE_QRCODE=1
 	make
 	export QTDIR=/opt/local/share/qt4  # needed to find translations/qt_*.qm files
 	T=$(contrib/qt_translations.py $QTDIR/translations src/qt/locale)
 	python2.7 share/qt/clean_mac_info_plist.py
-	python2.7 contrib/macdeploy/macdeployqtplus Learncoin-Qt.app -add-qt-tr $T -dmg -fancy contrib/macdeploy/fancy.plist
+	python2.7 contrib/macdeploy/macdeployqtplus Kibocoin-Qt.app -add-qt-tr $T -dmg -fancy contrib/macdeploy/fancy.plist
 
- Build output expected: Learncoin-Qt.dmg
+ Build output expected: Kibocoin-Qt.dmg
 
 ###Next steps:
 
 * Code-sign Windows -setup.exe (in a Windows virtual machine) and
   OSX Bitcoin-Qt.app (Note: only Gavin has the code-signing keys currently)
 
-* update learncoin.org version
+* update kibocoin.org version
   make sure all OS download links go to the right versions
 
 * update forum version
